@@ -1,0 +1,11 @@
+StartLocation,2,0
+Artifact,fountain,0,0
+Artifact,wooden chair,0,1
+Artifact,book,0,2
+Artifact,sign,1,0
+Artifact,exam,1,1
+Artifact,old television,1,2
+Artifact,lunch,2,1
+Artifact,rubber chicken,3,1
+Artifact,vending machine,3,2
+Inventory,paper
