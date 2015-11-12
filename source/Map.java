@@ -85,7 +85,7 @@ public class Map {
                 SpecialArtifact tv = new SpecialArtifact();
                 tv.name = "old television";
                 tv.description = "You see your own reflection on the tv screen. Look how attractive you are!";
-                tv.touchDescription = "The tv beams with life and sounds emits form the speakers.";
+                tv.touchDescription = "The tv beams with life and sounds emits from the speakers.";
                 tv.specialDescription = "Oh sweet! A movie of Scooby-Doo is on where they investigate a haunted school. Now you feel all fired up.";
                 lab.content = tv;
                 artifactMap.put(tv.name, tv);
